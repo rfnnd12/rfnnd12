@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Rafi Nanda
+### 👨‍💻 Rafi Nanda Edtrian
 
 🎓 Alumni of **Information Systems - Universitas Riau**  
 🔍 Currently exploring career opportunities in **Data & Technology**  
@@ -53,8 +53,8 @@
 
 ### 📫 Let's Connect!
 
-- 📧 Email: rafinanda9@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/rafinanda](https://www.linkedin.com/in/rafinanda) *(ganti link jika berbeda)*
+- 📧 Email: rfnnd12@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/rafinanda](https://www.linkedin.com/in/rfnnd12) 
 - 💼 Portfolio/Projects: [GitHub Projects Below ↓](#)
 
 <p align="center">
