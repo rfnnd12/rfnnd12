@@ -1,7 +1,7 @@
 <h1 align="center">✨ WELCOME TO MY GITHUB ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C331&center=true&lines=Hi+I'm+Rafi+Nanda;Alumni+Universitas+Riau;Passionate+about+Data+%26+ML;Let’s+Build+Something+Awesome!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7C331&center=true&lines=Hi+I'm+Rafi+Nanda;Passionate+about+Data+%26+ML;Let’s+Build+Something+Awesome!">
 </p>
 
 <p align="center">
