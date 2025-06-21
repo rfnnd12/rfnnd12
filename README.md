@@ -3,9 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7C331&center=true&lines=Hi+I'm+Rafi+Nanda;Alumni+Universitas+Riau;Passionate+about+Data+%26+ML;Let’s+Build+Something+Awesome!">
 </p>
-
 <p align="center">
-  Step into my digital playground — where ideas become projects, and learning never stops.
+  Selamat datang di ruang digital saya — tempat bereksperimen, berkarya, dan belajar tanpa batas.
 </p>
 
 ---
@@ -68,3 +67,13 @@
 ---
 
 ⭐ *Always learning. Always building. Always curious.*
+
+
+
+  
+
+
+Welcome to my exploration space — a place of endless experimentation, projects, and learning.
+
+
+perbaiki kata kata ini lebih menarik
