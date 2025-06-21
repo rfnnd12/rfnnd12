@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7C331&center=true&lines=Hi+I'm+Rafi+Nanda;Alumni+Universitas+Riau;Passionate+about+Data+%26+ML;Let’s+Build+Something+Awesome!">
 </p>
 
+<p align="center">
+  🌟 <em>Welcome to my exploration space — a place of endless experimentation, meaningful projects, and continuous learning.</em>
+</p>
+
 ---
 
 ### 👨‍💻 Rafi Nanda Edtrian
@@ -64,13 +68,3 @@
 ---
 
 ⭐ *Always learning. Always building. Always curious.*
-
-
-
-  
-
-
-Welcome to my exploration space — a place of endless experimentation, projects, and learning.
-
-
-perbaiki kata kata ini lebih menarik
